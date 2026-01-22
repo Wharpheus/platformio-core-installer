@@ -42,7 +42,7 @@ setup(
         "semantic-version==2.8.5",  # >2.8.5 does not support Python 3.6
         "certifi==2023.11.17",
         # Misc
-        "wheel==0.42.0",
+        "wheel==0.46.2",
     ],
     packages=find_packages(),
     entry_points={
